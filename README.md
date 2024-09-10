@@ -13,7 +13,7 @@ Este proyecto es una API RESTful construida con .NET Core utilizando una arquite
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/ApiHexagonalNet.git
+   git clone https://github.com/AboveAcrobat284/ApiHexagonalNet.git
    cd ApiHexagonalNet
    ```
 
